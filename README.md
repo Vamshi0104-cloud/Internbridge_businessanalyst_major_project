@@ -1,4 +1,4 @@
-# Internbridge_businessanalyst_major_project
+
 identify and improve pain points within a customer journey while using a popular online shopping application
 I have selected the application (flipkart)
 devised the method to do the research
